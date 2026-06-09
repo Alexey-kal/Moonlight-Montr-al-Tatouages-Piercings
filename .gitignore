@@ -1,0 +1,23 @@
+# Original sources — optimized copies are in assets/
+owner.jpeg
+virgin mary.jpeg
+flower.jpeg
+neck flower.jpeg
+650111611_17939434830155458_4467568650336268728_n.jpeg
+657855939_18189481342370679_8284666364372723303_n.jpeg
+
+node_modules/
+.DS_Store
+
+# Unused 4K source — over GitHub 25 MB limit
+4125751-uhd_4096_2160_25fps.mp4
+
+# Original heavy videos (optimized in assets/videos/)
+6962192-hd_1920_1080_25fps.mp4
+owner video.mp4
+beard men.mp4
+
+# Unused legacy placeholders
+unnamed*.webp
+unnamed.jpg
+unnamed.webp
